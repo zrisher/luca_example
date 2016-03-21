@@ -1,0 +1,6 @@
+name: luca_example
+channels:
+  - defaults
+dependencies:
+  - python=2.7.10
+  - pip
