@@ -1,0 +1,18 @@
+{
+ "inputs": {
+  "form_name": "us.f1040sb",
+  "form_version": "2012",
+  "name": "",
+  "ssn": "",
+  "line1": [],
+  "line3": "0.00",
+  "line5": [],
+  "line7a": [
+   false,
+   false
+  ],
+  "line7b": "",
+  "line8": false
+ },
+ "outputs": {}
+}

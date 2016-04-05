@@ -3,4 +3,5 @@ channels:
   - defaults
 dependencies:
   - python=2.7.10
-  - pip
+  - pip:
+    - git+https://github.com/brandon-rhodes/luca@master
