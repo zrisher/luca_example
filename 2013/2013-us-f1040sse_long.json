@@ -1,0 +1,17 @@
+{
+ "inputs": {
+  "form_name": "us.f1040sse_long",
+  "form_version": "2013",
+  "name": "",
+  "ssn": "",
+  "line1a": "0.00",
+  "line1b": "0.00",
+  "line2": "0.00",
+  "line4b": "0.00",
+  "line5a": "0.00",
+  "line8a": "0.00",
+  "line8b": "0.00",
+  "line8c": "0.00"
+ },
+ "outputs": {}
+}
